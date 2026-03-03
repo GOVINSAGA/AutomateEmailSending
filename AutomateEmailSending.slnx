@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../../../RESUME/govind_cv.pdf" />
+    <File Path=".gitignore" />
+    <File Path="appsettings.json" />
+    <File Path="emails.txt" />
+    <File Path="README.txt" />
+  </Folder>
+  <Project Path="AutomateEmail/AutomateEmail.csproj" />
+</Solution>

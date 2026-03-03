@@ -1,0 +1,14 @@
+# Ignore C# build folders
+bin/
+obj/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore personal data files
+emails.txt
+emailSentList.txt
+govind_cv.pdf
+appsettings.json
+appsettings.*.json
+.vs/
