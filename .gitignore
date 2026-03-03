@@ -10,5 +10,6 @@ emails.txt
 emailSentList.txt
 govind_cv.pdf
 appsettings.json
-appsettings.*.json
 .vs/
+
+# Note: DO NOT ignore appsettings.example.json - it's a template for others!
