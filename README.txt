@@ -12,7 +12,7 @@ Full-Stack Developer outreach email automation tool.
 
 ## Required Files
 
-- `govind_cv.pdf` - Your resume (add locally)
+- `yourname_cv.pdf` - Your resume (add locally)
 - `emails.txt` - List of emails (add locally)
 
 ## Security
